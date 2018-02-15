@@ -6,5 +6,5 @@ It is very similar to a text-based-adventure with very minimalistic controls( Go
 There are a few areas to walk to, 2 quests,a few different enemies, a few different weapons, simple level up system and a XML-based savesystem.
 NOTE : Walking to a new area will refill your HP. 
 
---
+--  
 Feel free to do it whatever you want. Add graphic, add new features,use it to learn w/e
