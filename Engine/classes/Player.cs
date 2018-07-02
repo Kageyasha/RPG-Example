@@ -249,7 +249,5 @@ namespace Engine
             }
                 return playerData.InnerXml; // The XML document, as a string, so we can save the data to disk
          }
-
-  
     }
 }
